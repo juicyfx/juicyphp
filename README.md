@@ -1,8 +1,8 @@
 ![](https://heatbadger.now.sh/github/readme/juicyfx/juicyphp/)
 
 <p align=center>
-  <a href="https://github.com/juicyfx/juicyphp/actions"><img src="https://badgen.net/github/checks/juicyfx/juicyphp/master?cache=300"></a>
-  <a href="https://coveralls.io/r/juicyfx/juicyphp"><img src="https://badgen.net/coveralls/c/github/juicyfx/juicyphp?cache=300"></a>
+  <a href="https://github.com/juicyfx/juicyphp/actions"><img src="https://badgen.net/github/checks/juicyfx/juicyphp"></a>
+  <a href="https://coveralls.io/r/juicyfx/juicyphp"><img src="https://badgen.net/coveralls/c/github/juicyfx/juicyphp"></a>
   <a href="https://packagist.org/packages/juicyfx/juicyphp"><img src="https://badgen.net/packagist/dm/juicyfx/juicyphp"></a>
   <a href="https://packagist.org/packages/juicyfx/juicyphp"><img src="https://badgen.net/packagist/v/juicyfx/juicyphp"></a>
   <a href="https://packagist.org/packages/juicyfx/juicyphp"><img src="https://badgen.net/packagist/php/juicyfx/juicyphp"></a>
