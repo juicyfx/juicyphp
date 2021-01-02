@@ -25,8 +25,8 @@ composer install juicyfx/juicyphp
 
 | State       | Version | Branch   | PHP     |
 |-------------|---------|----------|---------|
-| dev         | `^0.2`  | `master` | `^7.2`  |
-| stable      | `^0.1`  | `master` | `^7.2`  |
+| dev         | `^0.2`  | `master` | `>=7.2` |
+| stable      | `^0.1`  | `master` | `>=7.2` |
 
 ## Usage
 
