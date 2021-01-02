@@ -3,9 +3,9 @@
 <p align=center>
   <a href="https://github.com/juicyfx/juicyphp/actions"><img src="https://badgen.net/github/checks/juicyfx/juicyphp"></a>
   <a href="https://coveralls.io/r/juicyfx/juicyphp"><img src="https://badgen.net/coveralls/c/github/juicyfx/juicyphp"></a>
-  <a href="https://packagist.org/packages/juicyfx/juicyphp"><img src="https://badgen.net/packagist/dm/juicyfx/juicyphp"></a>
-  <a href="https://packagist.org/packages/juicyfx/juicyphp"><img src="https://badgen.net/packagist/v/juicyfx/juicyphp"></a>
-  <a href="https://packagist.org/packages/juicyfx/juicyphp"><img src="https://badgen.net/packagist/php/juicyfx/juicyphp"></a>
+  <a href="https://packagist.org/packages/juicyfx/juicy"><img src="https://badgen.net/packagist/dm/juicyfx/juicy"></a>
+  <a href="https://packagist.org/packages/juicyfx/juicy"><img src="https://badgen.net/packagist/v/juicyfx/juicy"></a>
+  <a href="https://packagist.org/packages/juicyfx/juicy"><img src="https://badgen.net/packagist/php/juicyfx/juicy"></a>
   <a href="https://github.com/juicyfx/juicyphp"><img src="https://badgen.net/github/license/juicyfx/juicyphp"></a>
 </p>
 
@@ -15,10 +15,10 @@
 
 ## Usage
 
-To install latest version of `juicyfx/juicyphp` use [Composer](https://getcomposer.com).
+To install latest version of `juicyfx/juicy` use [Composer](https://getcomposer.com).
 
 ```
-composer install juicyfx/juicyphp
+composer install juicyfx/juicy
 ```
 
 ## Versions
